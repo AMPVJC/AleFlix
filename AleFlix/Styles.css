@@ -1,0 +1,26 @@
+body {
+    color: black;
+    background: darkred;
+}
+
+header {
+    border-bottom: solid 2px black;
+    padding: 0px;
+    font-size: 32px;
+}
+
+section {
+    padding-bottom: 80px;
+    padding-top: 80px;
+    background: darkred;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 20px;
+}
